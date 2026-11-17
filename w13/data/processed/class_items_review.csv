@@ -1,0 +1,24 @@
+team,route,instrument,unit,item,rater,mode,value,code,issue
+5,R1,MAPS,Route,S1b,C,virtual,-6,,Expected a nonnegative whole number
+5,R1,MAPS,S5,15a,C,virtual,-7,,Expected a nonnegative whole number
+7,R3,PEDS,S2,A3,C,virtual,Segement has a two way intersection,,Answer outside the form's response options
+7,R3,PEDS,S3,0,C,virtual,1+3,,Answer outside the form's response options
+7,R3,PEDS,S5,A3,C,virtual,Two way intersection,,Answer outside the form's response options
+7,R3,PEDS,S5,D34,C,virtual,2+3,,Answer outside the form's response options
+1,R3,MAPS,S3,10,A,field,1+2,,Answer outside the form's response options
+1,R3,MAPS,S6,2,A,field,2+3,,Answer outside the form's response options
+6,R3,PEDS,S2,D25,A,field,1+2,,Answer outside the form's response options
+6,R3,PEDS,S5,A3,A,field,0,,Answer outside the form's response options
+7,R2,PEDS,S2,0,A,field,1+3,,Answer outside the form's response options
+7,R2,PEDS,S2,D33,A,field,1+2+3,,Answer outside the form's response options
+7,R2,PEDS,S3,0,A,field,1+3,,Answer outside the form's response options
+7,R2,PEDS,S5,0,A,field,1+3,,Answer outside the form's response options
+7,R2,PEDS,S6,D25,A,field,1+2,,Answer outside the form's response options
+7,R2,PEDS,S2,0,B,field,1+3,,Answer outside the form's response options
+7,R2,PEDS,S2,B9,B,field,2+3,,Answer outside the form's response options
+7,R2,PEDS,S2,B10,B,field,2+3,,Answer outside the form's response options
+7,R2,PEDS,S2,D33,B,field,1+2+3,,Answer outside the form's response options
+7,R2,PEDS,S3,0,B,field,1+3,,Answer outside the form's response options
+7,R2,PEDS,S5,0,B,field,1+3,,Answer outside the form's response options
+7,R2,PEDS,S6,D25,B,field,1+2,,Answer outside the form's response options
+8,R1,PEDS,S1,0,B,field,1+3,,Answer outside the form's response options
